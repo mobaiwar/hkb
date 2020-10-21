@@ -1,4 +1,4 @@
-@charset "gbk";*{margin:0;padding:0}
+*{margin:0;padding:0}
 html{font-size:62.5%}
 @media (min-width: 320px) {
     html {font-size: 12px;}
