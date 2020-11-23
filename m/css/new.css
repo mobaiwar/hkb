@@ -254,6 +254,7 @@ textarea{overflow-y:auto;resize:vertical}
 .c-love li{padding-bottom:15px;}
 .m1 .type,.m1 .name{text-align:center;color:#999;font-size:12px;overflow: hidden;text-overflow:ellipsis;white-space:nowrap;display: inline-block;width:100%}
 .m1 .actor,.index-tj-l li .actor{color:#BFBFDE}
+.m1 .type{height:26px;}
 
 .m1 .other,.index-tj-l li .other{position:absolute;overflow:hidden;padding:0;color:#BFBFDE;font-size:12px;cursor:pointer;left:0;top:0;}
 .m1 .other i,.index-tj-l li p.other i{display:block;padding:0 5px;background:#090;color:#fff;font-style:normal;border-radius:0 1px 16px 0px;opacity:.8;width:30%;text-align:center}
