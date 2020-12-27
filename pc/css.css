@@ -1,0 +1,243 @@
+body{font:13px/1.5 Arial,宋体,Tahoma,sans-serif;background:#F8F8F8;color:#333}
+body,div,form,h2,h3,html,img,input,li,ol,p,span,ul{margin:0;padding:0}
+h2,h3{font-size:100%}
+img{border:0 none}
+img{vertical-align:middle}
+em,i{font-style:normal}
+li,ol,ul{list-style:none outside none}
+.w960{width:960px;margin:0 auto}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}
+.clearfix{clear:both}
+.clear{clear:both;overflow:hidden;font-size:0;height:0;line-height:0}
+.fa-clear{clear:both;zoom:1}
+.fa-clear:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}
+a{text-decoration:none;color:#333}
+a:hover{text-decoration:none;color:#f30}
+.fa-left{float:left}
+.fa-right{float:right}
+.fa-left,.fa-right{display:inline}
+.mt5{margin-top:5px}
+.mb5{margin-bottom:5px}
+.fa-play-circle-o{color:#69ADFD !important;font-size:1rem;margin-right:1px}
+.ratbar{width:60px;height:12px;overflow:hidden;display:block;text-indent:-999px;float:left;margin:2px 5px 0 0;background:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/star-min.gif) 0 -100px no-repeat}
+.ratbar-item{width:60px;height:12px;overflow:hidden;display:block;text-indent:-999px;float:left;background:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/star-min.gif) 0 0 no-repeat}
+.headerContent{width:960px;margin:0 auto;height:100px;padding:5px 0}
+.headerLogo{float:left;width:210px;margin-top:5px}
+.headerLogo img{display:block}
+.headerContent .headerSearch{float:right;margin-left:10px;width:740px;padding-top:20px}
+.headerSearch .searchForm{width:435px;position:relative;overflow:hidden}
+.headerSearch .searchForm input{float:left}
+.clearfix:after{clear:both;content:" ";display:block;font-size:0;height:0;visibility:hidden}
+.headerSearch .searchInput{border:1px solid #169DEA;box-shadow:2px 2px 3px #CCC inset;color:#ccc;display:block;font-size:14px;height:16px;line-height:16px;padding:9px 0 8px 14px;width:370px;border-right:0 none}
+.headerSearch .searchSubmit{background:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/fdj.gif) no-repeat scroll 5px 4px
+transparent;border:medium none;cursor:pointer;display:block;height:34px;margin-left:5px;width:36px}
+.headerSearch form{background:none repeat scroll 0 0 #169DEA;border-radius:2px 2px 2px 2px;display:block;height:35px;overflow:hidden;padding:3px}
+.headerSearch .searchHotWords{color:#444;padding-top:7px;line-height:24px;font-weight:700}
+.SearchTop{width:740px;height:43px}
+.SearchTop .FormSearch{float:left;width:435px;height:43px}
+.headerHistory{height:28px;position:relative;margin-top:4px;float:right;width:228px}
+.headerHistory .spanB{width:114px;float:left;text-align:center;height:28px;line-height:28px;font-size:14px}
+.headerHistory a{display:block;color:#333;border:1px solid #ddd}
+.headerHistory a.headerHistoryBtn{width:90px;float:left;font-size:14px;height:28px;line-height:28px;padding-left:22px;border-left:none}
+
+.headerSearch .searchHotWords{color:#444;padding-top:7px;line-height:24px;font-weight:700}
+.headerSearch .searchHotWords a{margin:0 5px;font-weight:400}
+.menuBar{height:40px;overflow:hidden;background:#0080D0;font-size:14px;font-weight:700;margin
+-top:4px}
+.menu{line-height:40px;overflow:hidden}
+.menu ul{float:left}
+.menu ul li{height:42px;overflow:hidden;float:left;margin:0;border-left:1px solid #0092D8;border-right:1px solid #0070B3}
+.menu ul.menulistA{margin-right:5px}
+.menu ul.menulistA li a{display:block;overflow:hidden;height:39px;line-height:39px;color:#fff;font-size:14px;font-weight:400;padding:0 22px;position:relative}
+.menu ul.menulistA li a:hover{color:#0060a5;z-index:1;background:#FCFCFC;border-top:1px solid #0060a5}
+.navBar{height:40px;overflow:hidden;border-bottom:1px solid #DADADA;background:#FCFCFC}
+.nav{height:40px;line-height:40px;overflow:hidden;color:#CCC}
+.nav .index-tags a{margin:0 5px;font-size:14px;font-family:微软雅黑,Arial,宋体,Tahoma,sans-serif}
+.nav .index-tags a:hover{text-decoration:none;color:#f30}
+.nav .index-tags label{color:#F60;font-weight:700;display:inline-block;font-size:14px}
+.box{width:958px;position:relative;overflow:hidden;padding:0;background:#fff}
+.wrap{margin:5px auto 0 auto}
+.maxBox{width:960px;overflow:hidden}
+#tv .videoIco{background:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/hctv_corner.png) no-repeat;width:92px;height:92px;display:block;position:absolute;top:0;left:0;z-index:15}
+#Movie .videoIco{background:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/movie-p.png) no-repeat;width:92px;height:92px;display:block;position:absolute;top:0;left:0;z-index:15}
+#Cartoon .videoIco{background:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/comic-p.png) no-repeat;width:92px;height:92px;display:block;position:absolute;top:0;left:0;z-index:15}
+#Variety .videoIco{background:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/zy-p.png) no-repeat;width:92px;height:92px;display:block;position:absolute;top:0;left:0;z-index:15}
+.latest-item{display:block;width:954px;border:1px solid
+#00A2FF;padding:0;margin:0;overflow:hidden}
+.latest-tab{width:960px;height:36px;overflow:hidden;margin-bottom:-2px}
+.latest-tab li.active{background-color:#FFF;border-color:#00A2FF;border-bottom:0 none #00A2FF;border-top-width:2px;color:#E12160;height:33px;position:relative;z-index:1}
+.latest-tab li{-moz-border-bottom-colors:none;-moz-border-left-colors:none;-moz-border-right-colors:none;-moz-border-top-colors:none;background-color:#FCFCFC;border-color:#E5E5E5;border-image:none;border-style:solid solid none;border-width:1px 1px 0;color:#333;cursor:default;float:left;font-size:14px;font-weight:700;height:33px;line-height:33px;margin-right:-1px;overflow:hidden;text-align:center;width:190px}
+.latest-tab li span{display:block;width:136px;margin:0 auto}
+.latest-tab .hot{background-position:0 -40px}
+.latest-tab .ui-icon{float:left;height:20px;margin:6px 5px 0 0;width:20px}
+.ui-icon{background-repeat:no-repeat;display:block;font-size:0;line-height:0;overflow:hidden;text-indent:-9999px;background-image:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/ui-icon.gif)}
+.latest-tab .hot{background-position:0 0}
+.latest-tab .active .hot{background-position:0 -21px}
+.pic-list{padding-left:9px;margin-top:20px;overflow:hidden}
+.pic-list li{width:134px;height:177px;text-align:center;overflow:hidden;float:left;font-size:14px;position:relative}
+.pic-list li p{width:110px;height:22px;line-height:22px;text-align:center;overflow:hidden;margin:5px auto 0 auto;font-size:14px}
+.pic-list li p.txt{font-size:12px;height:16px;line-height:16px;color:#999}
+.pic-list li p a{color:#333}
+.play-pic img:hover{filter:alpha(opacity=80);opacity:.8}
+.play-pic{width:104px;height:136px;display:block;overflow:hidden;margin:0 auto;background:#fff}
+.play-pic img{width:96px;height:128px;display:block;overflow:hidden;padding:3px}
+.pic-list label.bg,.ui-yiyi label.bg{width:96px;height:20px;display:block;overflow:hidden;background:#000;position:absolute;left:14px;bottom:111px;filter:alpha(opacity=30);opacity:.3;z-index:1}
+.pic-list label.time,.ui-yiyi label.time{width:86px;height:20px;line-height:20px;display:block;overflow:hidden;font-size:12px;position:absolute;left:14px;bottom:111px;padding:0 5px;text-align:right;z-index:2;color:#fff;white-space:nowrap}
+.txt-list{width:950px;overflow:hidden;margin:11px}
+.txt-list li{width:222px;height:32px;line-height:32px;overflow:hidden;float:left;margin-right:15px;font-size:12px;color:#AAA;border-bottom:1px dotted #E0E0E0}
+.txt-list li span{color:#666}
+.txt-list li span{color:#0060A5;font-size:12px;margin:0 4px}
+.txt-list li a{margin:0 4px}
+#latest-focus .txt-list{margin:15px 11px 10px 11px}
+.ui-yiyi{height:760px}
+.ui-yiyi .conBox{width:690px;margin-top:10px;overflow:hidden;padding-left:10px}
+.ui-yiyi .conBox .caption{height:30px;padding:0 10px;overflow:hidden}
+.ui-yiyi .conBox h2{width:194px;height:43px;float:left;overflow:hidden;clear:both;zoom:1;padding:6px 0 0 65px;font-size:16px;font-family:"Microsoft Yahei";color:#1368FC}
+.ui-yiyi .conBox .caption .tv-link{float:right;font-size:14px;line-height:30px}
+.ui-yiyi .conBox .caption .tv-link a{margin:0 0 0 10px}
+#tv .ui-tab-item{height:710px;overflow:hidden;padding:0}
+#Cartoon .box,#Movie .box,#Variety .box,#tv .box{border:1px solid #ddd}
+#Movie .ui-yiyi .pic-list,#tv .ui-yiyi .pic-list{float:left;width:690px}
+.ui-yiyi .pic-list{padding:0;margin-top:15px;overflow:hidden}
+.ui-yiyi .pic-list li{width:118px;height:270px;padding:0 10px}
+.ui-yiyi .pic-list li.niu{height:30px;line-height:30px;font-size:12px;background-color:#F5F5F5;padding:0;margin:5px 10px;-moz-border-radius:5px;-webkit-border-radius:15px;border-radius:5px}
+.ui-yiyi .pic-list li.niu a{display:block;color:#555;width:118px;height:240px}
+.ui-yiyi .play-pic{width:116px;height:158px;overflow:hidden}
+.ui-yiyi .play-pic img{width:110px;height:180px;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px}
+.ui-yiyi label.bg{width:110px}
+.ui-yiyi label.time{width:100px}
+.ui-yiyi .pic-list p{width:118px;text-align:center;height:18px;line-height:18px}
+.ui-yiyi .pic-list p.txt{font-size:12px;height:16px;line-height:16px;color:#999}
+.ui-yiyi .pic-list p.t{text-align:center;margin:10px 0 5px 0}
+.ui-yiyi .sideBar{width:225px;overflow:hidden;padding:0 19px 0 0}
+.ui-yiyi .caption h3{font-weight:700;font-size:14px;color:#333}
+.ui-yiyi .ui-top-tab{width:220px}
+.ui-yiyi .sideBar .caption{height:36px;line-height:36px;overflow:hidden;border-bottom:1px solid #EEE}
+.ul-top{margin:3px 0;overflow:hidden;background:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/num.gif) 2px 8px no-repeat}
+#Cartoon .ui-yiyi{height:679px}
+#Variety .ui-yiyi{height:727px}
+.IndexLink{width:960px}
+.mod_cooperation{position:relative;width:100%;overflow:hidden;margin-top:15px}
+.mod_tit{height:30px;line-height:30px;overflow:hidden;font-size:14px;color:#999}
+.mod_cooperation ul{overflow:hidden;padding:0 3px;zoom:1;clear:both;margin:5px 0;}
+.mod_cooperation li{float:left;margin:0 10px;width:98px;height:22px;line-height:22px;overflow:hidden;white-space:nowrap}
+.mod_cooperation li a{color:#777}
+.foot{clear:both;margin-top:5px;padding:20px 0 20px 0;line-height:30px;text-align:center;border-top:#88C1FF solid 2px;background:#F8F8F8;color:#666}
+.foot .copyrighten{width:780px;margin:0 auto}
+.suggest{border:1px solid #CCC;background-color:#FFF;padding:4px 10px;width:385px;z-index:9999;position:absolute;left:0;top:0;display:none;}
+.new-pic-list{overflow:hidden;width:956px}
+.new-pic-list li{border-bottom:1px solid #E5E5E5;border-right:1px solid #E5E5E5;float:left;height:270px;overflow:hidden;width:190px;position:relative}
+.new-pic-list .play-pic{background-color:#FFF;border:1px solid #FFF;display:block;height:170px;margin:14px auto 0 auto;overflow:hidden;padding:3px;width:120px}
+.new-pic-list label.pf{background:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/score.gif) no-repeat scroll 0 0;color:#FFF;height:18px;left:32px;line-height:18px;overflow:hidden;position:absolute;text-align:center;top:23px;width:35px;z-index:4}
+.new-pic-list label.time{bottom:81px;color:#FFF;display:block;font-size:12px;height:20px;left:35px;line-height:20px;overflow:hidden;padding:0 5px;position:absolute;text-align:right;white-space:nowrap;width:110px;z-index:2}
+.new-pic-list label.bg{background-color:#000;bottom:81px;display:block;height:20px;left:35px;opacity:.3;overflow:hidden;position:absolute;width:120px;z-index:1}
+.new-pic-list img{background:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/lazyload.gif) no-repeat scroll center center transparent;display:block;height:170px;overflow:hidden;width:120px;padding:0;border:none}
+.new-pic-list li p{height:20px;line-height:20px;margin:2px auto 0 auto;overflow:hidden;width:110px;text-align:center}
+.new-pic-list li p a{font-size:14px}
+.new-pic-list li p.actor{color:#999}
+.new-pic-list span,.ui-yiyi .pic-list li span.playspan,.movie-love li span{height:20px;width:90%;text-align:center;display: inline-block;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;padding:0 5%}
+.new-pic-list span a,.ui-yiyi .pic-list li span.playspan a,.movie-love li span.goodspan a{color:#999;font-size:12px}
+.box .hot-latest,.hot-latest .txt-list li span{border-color:#0080D0;color:#0080D0}
+span.youxiang{display:inline-block;width:191px;height:19px;background:#F8F8F8 url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/yx.png) no-repeat 0 0;}
+/*列表页*/
+.box {width:958px;position:relative;overflow:hidden;padding:0;background:#fff}
+.wrap {margin:5px auto 0 auto}
+.maxBox {width:960px;overflow:hidden}
+.ul-top {margin:3px 0;overflow:hidden;background:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/num.gif) 2px 8px no-repeat}
+.ul-top li {height:29px;line-height:29px;overflow:hidden;padding-left:26px;border-bottom:1px dotted #DFDFDF}
+.ul-top li span {float:right;color:#0060A5}
+.foot {clear:both;margin-top:5px;padding:20px 0 20px 0;line-height:30px;text-align:center;border-top:#88C1FF solid 2px;background:#F8F8F8;color:#666}
+.foot .copyrighten {width:780px;margin:0 auto}
+.suggest {border:1px solid #CCC;background-color:#FFF;padding:4px 10px;width:385px;z-index:9999;position:absolute;left:0;top:0;display:none;}
+.cntBox {width:690px;overflow:hidden;}
+.cntBox .conBox {width:690px;height:auto;}
+.cntBox .box {width:688px;}
+/*686*/.bigCaption {height:44px;line-height:44px;overflow:hidden;margin:0 15px;font-size:14px;border-bottom:2px solid #207EBE;}
+.cntBox .conBox .caption h2 {width:240px;overflow:hidden;font-size:15px;}
+.cntBar {width:258px;overflow:hidden;}
+.cntBar .sideRow {}
+.cntBar .box {width:256px;}
+.cntBar .sideRow .caption {height:43px;line-height:41px;overflow:hidden;margin:0 12px;border-bottom:1px solid #EEE;}
+.cntBar .sideRow .caption h3 {font-weight:bold;font-size:14px;color:#333;}
+.cntBar .box .content {padding:0 12px 5px 12px;}
+.lb .cntBox .box .bigCaption {border-bottom:1px solid #EEE;}
+.cntBar .box .content .ul-top li em {font-size:11px;margin-left:5px;}
+.channel-title .list_px a,.channel-title .list_px label {color:#333;padding:0 6px 0 6px;height:20px;line-height:22px;_line-height:20px;overflow:hidden;background:#EDEDED;border-width:1px;border-style:solid;border-radius:2px;border-color:#999 #DDD #DDD #999;margin:10px 12px 0 0;float:left;font-family:'宋体';_font-family:Tahoma;}
+.channel-title .list_px label {background:white;margin-right:0;border:0;}
+.channel-title .list_px a:hover {box-shadow:inset 0 2px 4px rgba(0,0,0,0.2),0 1px 2px rgba(0,0,0,0.05);}
+.conBox .channel-content {}
+.conBox .channel-content ul {padding:0 0 12px 0;zoom:1;overflow:hidden;}
+.conBox .channel-content ul li,.lb .conBox .channel-content ul li {margin:12px 1px 0 20px;float:left;width:130px;height:255px;padding:8px;overflow:hidden;position:relative;}
+.conBox .channel-content ul li p {font-size:12px;float:left;line-height:2em;width:100%;overflow:hidden;text-overflow:ellipsis;text-align:center;color:#888;height:30px;}
+.conBox .channel-content ul li span {height:22px;line-height:22px;width:90%;text-align:center;display:inline-block;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;padding:0 5%}
+.conBox .channel-content ul li span a {color:#999;font-size:12px}
+.conBox .channel-content ul li p a {color:#000;font-size:14px;margin-top:5px;}
+.page {height:27px;*height:28px;overflow:hidden;font-family:Arial,Helvetica,sans-serif;margin:8px 10px;text-align:center;color:#333;}
+.page a,.page span {height:20px;line-height:20px;display:inline-block;text-align:center;margin:0 1px;padding:0 8px;color:#666;overflow:hidden;vertical-align:middle;border:1px solid #e9e9e9;background:#FFF;-moz-border-radius:1px;-webkit-border-radius:1px;border-radius:1px;}
+.page a:hover {color:#39C;font-weight:bold;text-decoration:none;border:1px solid #e0e0e0;}
+.page span.current {color:#fff;font-weight:bold;border:1px solid #787878;background:#787878;}
+.page .first,.page .last,.page .prev,.page .next {width:53px;padding:1px 0;text-align:left;text-indent:12px;border:1px solid #d6d6d6;background:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/page.gif) 0 0 no-repeat;}
+.page .first,.page .last {width:43px;}
+.page .next,.page .last {text-indent:4px;background-position:0 -20px;}
+.page .last {background-position:-10px -20px;}
+.page .first:hover,.page .last:hover,.page .prev:hover,.page .next:hover {font-weight:normal;border:1px solid #c0c0c0;}
+.lb {margin-top:5px;}
+.conBox .channel-content ul li img {height:198px;width:120px;z-index:1;float:left;-moz-border-radius:3x;-webkit-border-radius:3px;border-radius:3px;}
+.conBox .channel-content ul li a.e {display:block;height:166px;width:120px;overflow:hidden;padding:4px;margin-bottom:7px;}
+.fa-right .channel-content .listtype,.lb .channel-content .listtype {bottom:89px;color:#FFFFFF;filter:alpha(opacity=100);height:25px;left:7px;line-height:25px;overflow:hidden;position:absolute;text-align:right;width:115px;padding-right:5px;z-index:3;}
+.fa-right .channel-content .shadow,.lb .channel-content .shadow {background-color:#000000;bottom:89px;display:block;height:25px;left:13px;opacity:0.3;filter:alpha(opacity=30);overflow:hidden;position:absolute;width:119px;z-index:2;}
+.fa-right .channel-content .score,.lb .channel-content .score {display:block;background:url("https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/score.gif") no-repeat scroll 0 0 transparent;top:20px;color:#FFFFFF;height:18px;left:10px;filter:alpha(opacity=100);line-height:18px;overflow:hidden;position:absolute;text-align:center;width:35px;z-index:4;}
+/*内容页*/
+.weizhi{overflow:hidden;margin:8px 0;height:25px;border-radius:3px 0 0 3px;background-color:#F7F7F7;color:#ccc;text-indent:3px;line-height:25px}
+.weizhi a{color:#ccc}
+#movie-info{margin-top:5px;height:380px;color:#000;font-family:"微软雅黑"}
+.poster{float:left;width:260px}
+.poster img{margin-top:7px;border:1px solid #eee;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}
+.intro{float:left;overflow:hidden;width:699px;}
+.intro h2{display:block;margin:5px 0 5px 0;color:#17A8FB;font-size:30px;}
+.intro ul{height:40px;font-size:14px}
+.intro li{float:left;margin-right:25px;line-height:35px}
+.intro li.actor{overflow:hidden;max-height:105px}
+.intro li.ftitle{overflow:hidden;max-height:35px}
+.intro .dbtag{width:100%}
+.intro p{float:left;overflow:hidden;margin:6px 0 0 0;padding:7px 0 25px 0;height:55px;border-top:1px dotted #ccc;color:#999;text-overflow:ellipsis;font-size:14px;line-height:27px}
+.intro p span{color:#000}
+.intro li span{color:#999}
+#content{float:left;width:100%;background:#F7F7F7 url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/index.png) no-repeat scroll center 0}
+.baiduyunaddres,.movietext,.onlineaddres{clear:both;margin:20px auto;border:1px solid #eee;background-color:#fff;box-shadow:0 0 10px rgba(0,0,0,.1)}
+.downhelp,.hkbonline{height:44px;border-bottom:1px solid #EEE;font-size:14px;line-height:44px}
+
+.downhelp h3,.hkbonline h3{float:left;overflow:hidden;width:460px;background:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/kk.jpg) no-repeat scroll 8px 9px;color:#1A9CD6;text-indent:38px;font-weight:400}
+.xunleiadd h3{background:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/xun.jpg) no-repeat scroll 12px 13px}
+.hkbonline h3{background:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/online.jpg) no-repeat scroll 0px 15px;text-indent:26px}
+.onlineaddres{max-height: 182px;overflow-y: auto;    padding: 8px 0 17px 13px;}
+.onlineaddres a,.onlineaddres button,.onlineaddres span.noa{  float: left; border: 1px solid #E0E0E0;    background: #fff;    display: block;    width: 113px;    height: 24px;    line-height: 24px;    text-overflow: ellipsis;    white-space: nowrap;overflow: hidden;    text-align: center;color:#666;    margin: 10px 10px 0 4px;font-size:13px;border-radius:3px;}
+.onlineaddres button.on,.onlineaddres li.on a{color:#fff;border:1px solid #10761A;background: #10761A;}
+.hkbonline a{float:right;color:#f00;border:none;width: auto;text-decoration:underline}
+.downhelp a{float:right;margin-right:5px;color:#999;font-size:12px}
+.baiduyunaddres ul{padding:3px 0 15px 0}
+.baiduyunaddres ul li{margin:0 auto;padding:0 15px;width:900px;height:40px;border-bottom:1px solid #F0F0F0;font-size:13px;line-height:40px;overflow:hidden;}
+.baiduyunaddres ul li a{color:#666}
+.baiduyunaddres ul li span{margin-right:8px;padding:3px 6px;border-radius:3px;background:#00ADFF;color:#fff;font-size:12px}
+.baiduyunaddres ul li.on span{background:#148D08;}
+.baiduyunaddres ul li.on a{padding-right:20px;background:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/playico.jpg) no-repeat scroll right 0px;background-size:15px 15px;}
+.baiduyunaddres ul li a b{color:#aaa}
+.movietext h3{margin:20px 0 0 15px;color:#999;font-weight:400;font-size:14px}
+.movietext h4{border-top:1px dotted #ddd;margin:10px auto 0px auto; color: #999;   font-weight: 400;   font-size: 14px;}
+.introduction{overflow:hidden;padding:10px 20px 20px 20px;color:#666;font-size:14px;font-family:"Microsoft Yahei";line-height:35px}
+.introduction p{text-align:left}
+.introduction p.com{margin:10px 0;padding:10px 30px;border-radius:4px;background-color:#F7F7F7;font-size:13px;font-family:"Microsoft Yahei";line-height:28px;}
+.introduction img{margin:7px auto;max-width:920px}
+.goodmovie h3{margin-top:15px;color:#8BBC17;text-indent:10px;font-size:22px;font-family:"Microsoft Yahei"}
+.goodmovie{margin:10px 0;font-size:12px}
+.goodmovie ul{padding:10px 0 0 10px}
+.goodmovie li{float:left;margin:5px 25px 10px 0;width:450px;height:33px;background:#fff;box-shadow:0 0 10px rgba(0,0,0,.05);text-indent:20px;line-height:33px}
+.goodmovie li a{color:#666}
+.goodmovie li span{margin-left:5px;color:#999}
+.movie-love h4{margin:0;color: #1A9CD6;font-weight: 400;font-size:14px;padding-top:15px;text-indent:20px;}
+.movie-love{width:100%;height:455px;margin-top:-15px;}
+.movie-love li{ float: left; height: 240px; overflow: hidden; width: 160px; position: relative;}
+.movie-love li p{height: 20px; line-height: 20px; margin: 2px auto 0 auto; overflow: hidden; width: 110px; text-align: center;}
+.movie-love img{background: url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/pc/lazyload.gif) no-repeat scroll center center transparent; display: block; height: 170px; overflow: hidden; width: 120px; padding: 0; border: none;}
+.movie-love .play-pic{background-color: #FFF; border: 1px solid #FFF; display: block; height: 170px; margin: 14px auto 0 auto; overflow: hidden; padding: 3px; width: 120px;}
+.movie-love li span{display:block;text-align: center}
