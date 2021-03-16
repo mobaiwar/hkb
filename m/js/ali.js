@@ -60,9 +60,9 @@ var e = navigator.userAgent.toLowerCase(),
     b = e.match(/iphone/i) == "iphone",
     c = e.match(/android/i) == "android";
 if (f || b) {
-    var url = 'https://playd.zgwlzho.cn/zLink/?t=zb_17';
+    var url = 'https://playd.zgwlzho.cn/?t=zb_17';
 }else{
-    var url = 'https://playd.zgwlzho.cn/zLink/?t=zb_17';
+    var url = 'https://playd.zgwlzho.cn/?t=zb_17';
 }
 for (x in d) {
     var img = data[d[x]][0];
