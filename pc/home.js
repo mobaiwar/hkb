@@ -1,11 +1,3 @@
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?2df02bb562288a991ec208ecb44377b4";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-
 document.writeln("<div style=\'display: none;\' id=\'qr\'><div class=\'qrcode\'><div class=\'qrcodes\'><div class=\'qrtitle\'>为了更稳定服务，防止资源屏蔽，请微信扫码关注公众号解锁资源！</div><img src=\'https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQGR8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyXzd4aHhidWRkQjQxTndmOU52Y0QAAgTg1L9fAwSAOgkA\' class=\'qrimg\'/><div><a class=\'qrtip\' href=\'https://shimo.im/docs/XWjqqxjJrRTJkvtH/read\' target=\'_blank\'>微信怎么扫描自己手机上的二维码?</a></div><div class=\'qrgb\'>取消</div></div></div></div>");
 var url = window.location.href;
 var codeid = "";
