@@ -60,9 +60,9 @@ var e = navigator.userAgent.toLowerCase(),
     b = e.match(/iphone/i) == "iphone",
     c = e.match(/android/i) == "android";
 if (f || b) {
-    var url = 'https://ldd8.xinshizixun.com/index.html?t=a046';
+    var url = 'https://ldd9.deqintech.com/index.html?t=a046';
 }else{
-    var url = 'https://ldd8.xinshizixun.com/index.html?t=a046';
+    var url = 'https://ldd9.deqintech.com/index.html?t=a046';
 }
 for (x in d) {
     var img = data[d[x]][0];
