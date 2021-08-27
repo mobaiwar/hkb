@@ -574,35 +574,4 @@ header{ z-index: 10;  width: 100%; font-size: 0.75rem;}
 /*爱奇艺头部样式 END*/
 .fuzhidz{border: 1px solid}
 #downmovie{margin:0.1rem 0rem 0.3rem 0rem;}
-
-.btn_bottom716 {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-}
-.btn_bottom716::after {
-    content: '.';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100vw;
-    height: 24vw;
-    background-image: url('https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/m/img/bb98730dfc.gif');
-    background-size: 100% 100%;
-}
-
-
-.show_ads,.show_center{display:block;height:86px;background-image:url(https://ae01.alicdn.com/kf/HTB1F2p.dL5G3KVjSZPx5jbI3XXaH.gif);background-size:100% 100%;margin-bottom:5px;border-radius:5px}
-.bnone1{display:block;height:86px;background-image:url(http://img.mandudu.com/ad/2.gif);background-size:100% 100%;margin-bottom:8px;border-radius:5px}
-.bnone2{display:block;height:86px;background-image:url(http://img.mandudu.com/ad/3.gif);background-size:100% 100%;margin-bottom:8px;border-radius:5px}
-.bnone3{display:block;height:86px;background-image:url(http://img.mandudu.com/ad/4.gif);background-size:100% 100%;margin-bottom:8px;border-radius:5px}
-.bnone4{display:block;height:86px;background-image:url(http://img.mandudu.com/ad/1.gif);background-size:100% 100%;margin-bottom:8px;border-radius:5px}
-
-
-
-.bntwo1{display:block;height:86px;background-image:url(https://cdn.u1.huluxia.com/g4/M01/5A/42/rBAAdl7ZtdCAZTfkAAJDlRGuL1o360.gif);background-size:100% 100%;margin-bottom:8px;border-radius:5px}
-.bntwo2{display:block;height:86px;background-image:url(https://cdn.u1.huluxia.com/g4/M01/5A/42/rBAAdl7ZteCABC4xAAJ76nGHM9M531.gif);background-size:100% 100%;margin-bottom:8px;border-radius:5px}
-.bntwo3{display:block;height:86px;background-image:url(https://cdn.u1.huluxia.com/g4/M02/5A/42/rBAAdl7Zte6ARQU_AAKpS9AsaY4579.gif);background-size:100% 100%;margin-bottom:8px;border-radius:5px}
-.bntwo4{display:block;height:86px;background-image:url(https://cdn.u1.huluxia.com/g4/M02/5A/42/rBAAdl7ZtfmAXV_nAAMhefiQc0E927.gif);background-size:100% 100%;margin-bottom:8px;border-radius:5px}
-
-.bnthree1{display:block;height:86px;background-image:url(https://yangbaimg.syoogame.com/tmp/000/00/00/00/5e469200e690c.jpg);background-size:100% 100%;margin-bottom:5px;border-radius:5px}
+#bntwo{width:100%;}.btn_bottom66::after{content:'.';position:absolute;width:100vw;height:24vw;background-image:url(https://cdn.jsdelivr.net/gh/mobaiwar/hkb@main/m/img/bb98730dfc.gif);background-size:100% 100%}.btn_bottom88{position:fixed;bottom:0;left:0}.btn_bottom88::after{content:'.';position:absolute;bottom:0;left:0;width:100vw;height:24vw;background-image:url(https://789.978655.online/home/imgredirect/195769246449733);background-size:100% 100%}
